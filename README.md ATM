@@ -1,0 +1,19 @@
+# Simple ATM System
+
+A beginner Python project that simulates ATM operations.
+
+## Features
+- Check Balance
+- Deposit Money
+- Withdraw Money
+
+## Technologies Used
+- Python
+
+## Sample Output
+
+```text
+Current Balance: 1000
+Amount deposited successfully!
+Please collect your cash!
+```
